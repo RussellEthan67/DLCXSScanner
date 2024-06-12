@@ -1,0 +1,3 @@
+https://labs.hackxpert.com/RXSS/GET/01.php?fname=a
+https://labs.hackxpert.com/RXSS/GET/10.php?fname=a
+https://labs.hackxpert.com/RXSS/GET/11.php?fname=a
