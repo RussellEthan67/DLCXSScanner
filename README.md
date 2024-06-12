@@ -1,6 +1,7 @@
-#### DLCXSS
+## DLCXSS
 
 #### Deep Link Community XSS Scanner
+![image](https://github.com/RussellEthan67/DLCXSScanner/assets/172101020/bd0d9f1a-60b4-4424-b95f-cf02d525b5dc)
 
 Our XSS vulnerability scanner is a comprehensive scanning tool designed to identify reflected XSS vulnerabilities in web applications. It offers advanced features to enhance your web security testing process:
 
